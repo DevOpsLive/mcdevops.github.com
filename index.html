@@ -1,8 +1,21 @@
-<!DOCTYPE html>
-<html>
-  <head><title>Mid-Cities DevOps</title></head>
-  <body>
-    <h1>Future home of the Mid-Cities DevOps User Group.</h1>
-    <p>While we get all set up, you can still visit on <a href="http://gplus.to/mcdevops">Google Plus</a>.</p>
-  </body>
-</html>
+---
+layout: default
+title: Mid-Cities DevOps
+---
+{% assign first_post = site.posts.first %}
+<header>
+<h1>{{ page.title }}</h1>
+</header>
+<h2>{{ first_post.title }}</h2>
+<div>
+{{ first_post.content }}
+</div>
+<h3>Recent Updates</h3>
+<ul>
+{% for post in site.posts limit: 7 %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+<footer>
+<p>Connect with us on <a href="http://gplus.to/mcdevops">Google Plus</a>.</p>
+</footer>
