@@ -2,5 +2,67 @@
 layout: post
 title: Your IT Department is Too Slow
 ---
+By: John Jelinek
 
-Recap of this week's meeting will be up shortly.
+h3. A Little Context
+
+From my experience, thus far, DevOps doesn’t mean much to someone in the DFW metroplex. It’s a new term for a lot of us. The concepts however are not new, just the term. To paint a picture I want to walk you through three scenarios.
+
+h3. Let Me Tell You About Lisa
+
+Lisa is a CIO for a large widget manufacturer. The company is old, but they have sustainable market share. Recently though, new tech startups are beginning to build applications for smart phones and web applications that replicate the features of these widgets and also synchronize data with all internet-enabled consumer devices. Needless to say, the market share is beginning to dwindle.
+
+Lisa’s company is large though and they also have monolithic applications to manage their IT assets, financial information, users, etc. Her company has spent billions of dollars enhancing the system over the years and now 80% of the IT budget is spent on maintaining this system. The other executives have begun to talk about a shift in direction for the company and they want the IT system to accommodate the request.
+
+Lisa is nervous because this one system that manages all aspects of the organization is a beast to modify. These business changes could take months to accomplish. How can she resolve this and stay in budget and on-time?
+
+h3. Let Me Tell You About Sean
+
+Sean is a senior software engineer for the large widget manufacturing company. The company outsources a lot of their software development overseas to cut back on costs. Sean is tasked with making sure that all the code meets the requirements.
+
+Before moving development overseas, all source code was accessed through a shared drive over a secure VPN. After the move, Sean noticed that files kept getting overwritten and precious time was lost retrieving written logic from backups.
+
+The team migrated to Visual Source Safe, but now they can only check out one file at a time for modifications. Any work that requires two team members to work on the same file, but different methods/functions causes a backlog of waiting until one person is done. This made the code less vulnerable to data loss, but also made development slower for the monolithic system.
+
+Other challenges with the team overseas include intermittent power failures and bandwidth issues. Since a VPN connection is required to check files in or out of Visual Source Safe, any combination of power or bandwidth failure results in file corruption.
+
+With Lisa breathing down his neck because of how slow enhancements are released. How can Sean maintain the integrity of the source code and speed up the development process?
+
+h3. Let Me Tell You About Paul
+
+Paul also works for the large widget manufacturing company. He works with a small team to configure, deploy, and maintain the large internal system. Another part of his role includes handling trouble tickets, making an inventory of the internal hardware and software, and writing up some SQL queries and reports for the Marketing department. If there’s one thing he hates, and one thing he sees the most, it’s a lack of data integrity.
+
+It seems to him that functional requirements are met, but what about non-functional requirements? Things like scalability, availability, stability, and performance. With regards to the monolithic IT system, he is constantly needing to restart the server, at least once a week. Fortunately this happens when everyone is out of the office, but in addition, he deals with one stress-inducing critical issue every week. It’s starting to take a toll on him and he’s really tired of getting the 3am calls in the morning when production is down.
+
+With Lisa breathing down his neck because of the weekly production failures, he’s left to blaming the developers for poor code. In their response, they claim that all works in the test environment and that IT didn’t deploy the code appropriately. How can Paul increase the consistency in configuring, deploying, and maintaining the large monolithic IT system and decrease the digital fires from flaring up?
+
+h3. Problem: Your IT Department Is Too Slow
+
+If you have ever worked in an environment that these three are in, you know that the IT department is too slow. Even the smallest of changes are taking way too long to keep up with the demand of the business. In addition, market share is continuing to decline day after day as the competition continue to release new features on a weekly basis. So, what is this solution here? Surprisingly, at the core, this issue isn’t a software or IT issue, but a communication issue.
+
+h3. Solution: DevOps
+
+!<http://www.rajiv.com/wordpress/wp-content/uploads/2009/03/devops.png(llustration showing DevOps as the intersection of Development (Software Engineering), Technology Operations and Quality Assurance (QA))!:http://www.rajiv.com/blog/2009/03/17/technology-department/#attachment_786
+
+Straight out of Wikipedia, “DevOps” is an emerging set of principles, methods and practices for communication, collaboration and integration between software development and IT operations professionals. It has developed in response to the emerging understanding of the interdependence and importance of both the development and operations disciplines in meeting an organization’s goal of rapidly producing software products and services. Its purpose is to facilitate meeting business goals by producing good quality software products and services in a timely fashion.
+
+Professionally, I think DevOps is the glue between all facets of IT, not unlike the bass guitar is the glue between the lead guitar and drums in a rock band. The concepts that DevOps advocate include a high emphasis on hard technical skills as well as soft skills, because at the core, a DevOps role within an organization requires high competency and the ability to communication that within other areas of IT.
+Where Did DevOps Come From?
+
+Since this term is so new, I thought it would be beneficial to get a short history. The term DevOps was coined in Belgium at the 2009 DevOpsDays conference. The organizers made this humorous and informational video behind the “spirit” of the DevOps. The emphasis was to increase communication between internal IT department silos and bring the fun back into software development and organizational deployments.
+
+h3. Adoption
+
+Since 2009, DevOps has become a global phenomenon and more organizations are starting to take advantage of the benefits. With this in mind, I am not aware of any Dallas organizations taking advantage of DevOps today. The adoption of DevOps is being driven by some of the following factors:
+
+1. Use of agile and other development processes and methodologies
+2. Demand for an increased rate of production releases from application and business unit stakeholders
+3. Wide availability of virtualized and cloud infrastructure from internal and external providers
+4. Increased usage of data center automation and configuration management tools
+5. It has also been suggested a side-effect of the dominant, traditional US management style ("the Sloan model" vs "the Toyoda model") guarantees the development of silos of automation, thus creating "the Devops gap" that then requires Devops capability to address.
+
+h3. Jobs
+
+To get a feel for the sort of hard-skills that would be necessary for someone interested in DevOps, let’s take a look at this job description:
+
+<a href="http://jobs.unbounce.com/devops/" target="blank">DevOps Jedi</a>

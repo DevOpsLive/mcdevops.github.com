@@ -2,9 +2,7 @@
 layout: default
 ---
 	<div id="post">
-		<h2>
-			<a href="{{ page.url }}">{{ page.title }}</a>
-		</h2>
+		<h2>{{ page.title }} | <a href="/">Go Home &raquo;</a></h2>
 		<div id="date">Posted On: {{ page.date | date_to_string }}</div>
 		{{ content }}
 		<a href="/">Go Home</a>
