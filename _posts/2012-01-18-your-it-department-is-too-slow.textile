@@ -2,6 +2,13 @@
 layout: post
 title: Your IT Department is Too Slow
 ---
+
+h3. This Meeting Was Brought To You By CTREC-Hilton IT Academy
+
+<div style="text-align: center;">
+<a href="http://www.ctrec.com/dallas-location" target="blank"><img src="http://www.techsymposiums.com/Media/Default/HtmlWidget/Logo02_Presentation_Medium.jpg" alt="CTREC Hilton IT Academy" /></a>
+</div>
+
 By: John Jelinek
 
 h3. A Little Context
@@ -42,7 +49,10 @@ If you have ever worked in an environment that these three are in, you know that
 
 h3. Solution: DevOps
 
-!<http://www.rajiv.com/wordpress/wp-content/uploads/2009/03/devops.png(llustration showing DevOps as the intersection of Development (Software Engineering), Technology Operations and Quality Assurance (QA))!:http://www.rajiv.com/blog/2009/03/17/technology-department/#attachment_786
+<div style="text-align: center;">
+<a href="http://www.rajiv.com/blog/2009/03/17/technology-department/#attachment_786" target="blank"><img src="http://www.rajiv.com/wordpress/wp-content/uploads/2009/03/devops.png" alt="Illustration showing DevOps as the intersection of Development (Software Engineering), Technology Operations and Quality Assurance (QA)" /></a>
+</div>
+
 
 Straight out of Wikipedia, “DevOps” is an emerging set of principles, methods and practices for communication, collaboration and integration between software development and IT operations professionals. It has developed in response to the emerging understanding of the interdependence and importance of both the development and operations disciplines in meeting an organization’s goal of rapidly producing software products and services. Its purpose is to facilitate meeting business goals by producing good quality software products and services in a timely fashion.
 
