@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-<div id="post">
-  <h2><a href="{{ page.url }}">
-    {{ page.title }}
-  </a></h2>
-  <div id="date">Posted On: {{ page.date | date_to_string }}</div>
-  {{ content }}
-  <div><a href="/">Go Home</a></div>
-</div>
+	<div id="post">
+		<h2>
+			<a href="{{ page.url }}">{{ page.title }}</a>
+		</h2>
+		<div id="date">Posted On: {{ page.date | date_to_string }}</div>
+		{{ content }}
+		<a href="/">Go Home</a>
+	</div>
