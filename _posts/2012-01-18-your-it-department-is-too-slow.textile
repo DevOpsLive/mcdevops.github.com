@@ -53,11 +53,12 @@ h3. Solution: DevOps
 <a href="http://www.rajiv.com/blog/2009/03/17/technology-department/#attachment_786" target="blank"><img src="http://www.rajiv.com/wordpress/wp-content/uploads/2009/03/devops.png" alt="Illustration showing DevOps as the intersection of Development (Software Engineering), Technology Operations and Quality Assurance (QA)" /></a>
 </div>
 
-
 Straight out of Wikipedia, “DevOps” is an emerging set of principles, methods and practices for communication, collaboration and integration between software development and IT operations professionals. It has developed in response to the emerging understanding of the interdependence and importance of both the development and operations disciplines in meeting an organization’s goal of rapidly producing software products and services. Its purpose is to facilitate meeting business goals by producing good quality software products and services in a timely fashion.
 
 Professionally, I think DevOps is the glue between all facets of IT, not unlike the bass guitar is the glue between the lead guitar and drums in a rock band. The concepts that DevOps advocate include a high emphasis on hard technical skills as well as soft skills, because at the core, a DevOps role within an organization requires high competency and the ability to communication that within other areas of IT.
 Where Did DevOps Come From?
+
+<div style="text-align: center;"><iframe width="480" height="360" src="http://www.youtube.com/embed/EOveXZhJpr4" frameborder="0" allowfullscreen></iframe></div>
 
 Since this term is so new, I thought it would be beneficial to get a short history. The term DevOps was coined in Belgium at the 2009 DevOpsDays conference. The organizers made this humorous and informational video behind the “spirit” of the DevOps. The emphasis was to increase communication between internal IT department silos and bring the fun back into software development and organizational deployments.
 
