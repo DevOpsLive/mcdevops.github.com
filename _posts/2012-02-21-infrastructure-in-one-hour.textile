@@ -1,0 +1,30 @@
+---
+layout: post
+title: Infrastructure In One Hour
+---
+
+h3. This Meeting Brought To You By Improving Enterprises
+
+There will be FREE FOOD; please register on our eventbrite page to help us pre-order enough for everyone.
+
+Tuesday, February 21st 2012 7pm - 8pm CST
+16633 Dallas Parkway #100, Addison, TX 75001-6894, United States
+(214) 613-4444
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?ie=UTF8&amp;q=improving+enterprises&amp;fb=1&amp;gl=us&amp;hq=improving+enterprises&amp;hnear=0x864c1ee979bea767:0x2cdb29c046270495,Richardson,+TX&amp;cid=0,0,10656586620665177978&amp;t=m&amp;ll=32.977056,-96.827056&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?ie=UTF8&amp;q=improving+enterprises&amp;fb=1&amp;gl=us&amp;hq=improving+enterprises&amp;hnear=0x864c1ee979bea767:0x2cdb29c046270495,Richardson,+TX&amp;cid=0,0,10656586620665177978&amp;t=m&amp;ll=32.977056,-96.827056&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+By: Alex Soncodi
+
+h3. Talk Overview
+
+This discussion covers the basics of setting up a micro instance on Amazon's EC2 platform. We will show you how to create and boot your own AMI from an official Ubuntu EC2 image and set up the canonical LAMP stack. Then, for kicks, we'll set up a Git repository and some update/backup shell scripts for a one-click-update style RAD setup. This discussion is aimed at beginner-intermediate developer/network admin.
+
+h3. Related Links
+
+Check out the technologies/resources covered in this talk:
+
+<a href="http://www.ubuntu.com" target="blank">Ubuntu Linux</a>
+<a href="http://httpd.apache.org" target="blank">Apache Web Server Project</a>
+<a href="http://www.mysql.com" target="blank">MySQL Database</a>
+<a href="http://www.php.net" target="blank">PHP Language Page</a>
+<a href="http://aws.amazon.com/ec2" target="blank">EC2 Virtual Platform</a>
