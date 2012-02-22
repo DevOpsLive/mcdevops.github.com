@@ -18,6 +18,10 @@ h3. Talk Overview
 
 This discussion covers the basics of setting up a micro instance on Amazon's EC2 platform. We will show you how to create and boot your own AMI from an official Ubuntu EC2 image and set up the canonical LAMP stack. Then, for kicks, we'll set up a Git repository and some update/backup shell scripts for a one-click-update style RAD setup. This discussion is aimed at beginner-intermediate developer/network admin.
 
+h3. Slides
+
+<a href="https://github.com/MCDevOps/mcdevops.github.com/raw/master/_files/slides.pptx">Infrastructure In One Hour</a>
+
 h3. Related Links
 
 Check out the technologies/resources covered in this talk:
