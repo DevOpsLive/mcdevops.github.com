@@ -1,0 +1,19 @@
+---
+layout: post
+title: Build Better Building Blocks with SOA
+---
+
+h3. This Meeting Brought To You By Improving Enterprises
+
+There will be FREE FOOD; please register on our eventbrite page to help us pre-order enough for everyone.
+
+Tuesday, March 20st 2012 7pm - 8pm CST
+16633 Dallas Parkway #100, Addison, TX 75001-6894, United States
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?ie=UTF8&amp;q=improving+enterprises&amp;fb=1&amp;gl=us&amp;hq=improving+enterprises&amp;hnear=0x864c1ee979bea767:0x2cdb29c046270495,Richardson,+TX&amp;cid=0,0,10656586620665177978&amp;t=m&amp;ll=32.977056,-96.827056&amp;spn=0.006295,0.006295&amp;output=embed"></iframe>
+
+By: Sreeramulu Jadapolu
+
+h3. Talk Overview
+
+Software can easily get really complex. Do you ever feel like the technology drives the business rather than the other way around? Learn how to reel it back in with this month's talk: Building Better Building Blocks with SOA.
