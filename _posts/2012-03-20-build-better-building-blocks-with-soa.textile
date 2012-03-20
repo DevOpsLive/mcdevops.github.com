@@ -17,3 +17,7 @@ By: Sreeramulu Jadapolu
 h3. Talk Overview
 
 Software can easily get really complex. Do you ever feel like the technology drives the business rather than the other way around? Learn how to reel it back in with this month's talk: Building Better Building Blocks with SOA.
+
+h3. Slides
+
+<a href="https://github.com/MCDevOps/mcdevops.github.com/raw/master/_files/SOA1.pptx">Build Better Building Blocks with SOA</a>
