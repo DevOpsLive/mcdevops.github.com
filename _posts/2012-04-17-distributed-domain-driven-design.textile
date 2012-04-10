@@ -1,0 +1,23 @@
+---
+layout: post
+title: Distributed Domain Driven Design
+---
+
+h3. This Meeting Brought To You By Paladin
+
+There will be FREE FOOD; please register on our eventbrite page to help us pre-order enough for everyone.
+
+Tuesday, April 17t 2012 7pm - 8pm CST
+3030 Lbj Freeway, Dallas, TX 75234, United States
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?ie=UTF8&amp;q=paladin+dallas&amp;fb=1&amp;gl=us&amp;hq=paladin&amp;hnear=0x864c19f77b45974b:0xb9ec9ba4f647678f,Dallas,+TX&amp;cid=0,0,7521071718960099319&amp;t=m&amp;ll=32.911244,-96.876152&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?ie=UTF8&amp;q=paladin+dallas&amp;fb=1&amp;gl=us&amp;hq=paladin&amp;hnear=0x864c19f77b45974b:0xb9ec9ba4f647678f,Dallas,+TX&amp;cid=0,0,7521071718960099319&amp;t=m&amp;ll=32.911244,-96.876152&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+By: John Jelinek IV
+
+h3. Talk Overview
+
+We will explore Distributed Domain Driven Design (DDDD) for building complex business application while maintaining flexibility. Effectively, we will be building a business blueprint that can be deployed to the cloud.
+
+h3. Slides
+
+TBA - Will be posted on or near the event date.
