@@ -1,0 +1,23 @@
+---
+layout: post
+title: RHQ - Enterprise Management Platform
+---
+
+h3. This Meeting Brought To You By Paladin and RedHat
+
+There will be FREE FOOD; please register on our eventbrite page to help us pre-order enough for everyone. Additionally, <a href="http://www.redhat.com/">RedHat</a> has generously sponsored a $50 <a href="http://nextlevelvision.com/wp-content/uploads/2011/10/Kindle_amazon_gift_card_50.jpg" target="_blank">Amazon gift card</a>(for in-person attendees only)!
+
+Tuesday, June 19th 2012 7pm - 8pm CST
+3030 Lbj Freeway, Dallas, TX 75234, United States
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?ie=UTF8&amp;q=paladin+dallas&amp;fb=1&amp;gl=us&amp;hq=paladin&amp;hnear=0x864c19f77b45974b:0xb9ec9ba4f647678f,Dallas,+TX&amp;cid=0,0,7521071718960099319&amp;t=m&amp;ll=32.911244,-96.876152&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?ie=UTF8&amp;q=paladin+dallas&amp;fb=1&amp;gl=us&amp;hq=paladin&amp;hnear=0x864c19f77b45974b:0xb9ec9ba4f647678f,Dallas,+TX&amp;cid=0,0,7521071718960099319&amp;t=m&amp;ll=32.911244,-96.876152&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+Speaker: Stefan Negrea
+
+h3. Talk Overview
+
+This presentation is an introduction to RHQ, a pluggable management platform for administering, monitoring, alerting, and configuring enterprise resources. The presentation will also feature a demo of the recently introduced platform REST interface.
+
+h3. Slides
+
+TBA - Will be posted on or near the event date.
