@@ -5,7 +5,7 @@ title: RHQ - Enterprise Management Platform
 
 h3. This Meeting Brought To You By Paladin and RedHat
 
-There will be FREE FOOD; please register on our eventbrite page to help us pre-order enough for everyone. Additionally, <a href="http://www.redhat.com/">RedHat</a> has generously sponsored a $50 <a href="http://nextlevelvision.com/wp-content/uploads/2011/10/Kindle_amazon_gift_card_50.jpg" target="_blank">Amazon gift card</a>(for in-person attendees only)!
+There will be FREE FOOD; please register on our eventbrite page to help us pre-order enough for everyone. Additionally, <a href="http://www.redhat.com/" target="_blank">RedHat</a> has generously sponsored a $50 <a href="http://nextlevelvision.com/wp-content/uploads/2011/10/Kindle_amazon_gift_card_50.jpg" target="_blank">Amazon gift card</a> (for in-person attendees only)!
 
 Tuesday, June 19th 2012 7pm - 8pm CST
 3030 Lbj Freeway, Dallas, TX 75234, United States
