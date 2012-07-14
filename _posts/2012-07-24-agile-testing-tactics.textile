@@ -16,7 +16,7 @@ Speaker: Tim Lyon
 
 h3. Talk Overview
 
-Agile development is being used more and more but the Quality Assurance personnel and management are playing catch-up to be able to work in a lean environment and still produce quality testing.  Waterfail, FrAgile, ScrumBut, KantBan, and DevFlops are all various amalgamations of different methodologies trying to be shoe horned into existing development and delivery patterns that tend to fall short in quality assurance practices.  No one practice fits all but there are various tactics that can be used to help address some of those concerns and better limit the delivery quality exposure – especially in tight turn around projects.
+Agile development is being used more and more but the Quality Assurance personnel and management are playing catch-up to be able to work in a lean environment and still produce quality testing.  Waterfail, FrAgile, ScrumBut, KantBan, and DevFlops are all various amalgamations of different methodologies trying to be shoe horned into existing development and delivery patterns that tend to fall short in quality assurance practices.  No one practice fits all but there are various tactics that can be used to help address some of those concerns and better limit the delivery quality exposure - especially in tight turn around projects.
 
 h3. Slides
 
