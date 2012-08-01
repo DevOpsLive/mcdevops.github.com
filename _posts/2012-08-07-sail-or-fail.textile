@@ -1,0 +1,27 @@
+---
+layout: post
+title: Sail or Fail? Navigating Test Automation Pitfalls
+---
+
+h3. This Meeting Brought To You By Paladin
+
+There will be FREE FOOD; please register on our eventbrite page to help us pre-order enough for everyone!
+
+Tuesday, August 7th 2012 7pm - 8pm CST
+3030 Lbj Freeway, Dallas, TX 75234, United States
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?ie=UTF8&amp;q=paladin+dallas&amp;fb=1&amp;gl=us&amp;hq=paladin&amp;hnear=0x864c19f77b45974b:0xb9ec9ba4f647678f,Dallas,+TX&amp;cid=0,0,7521071718960099319&amp;t=m&amp;ll=32.911244,-96.876152&amp;spn=0.006295,0.006295&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?ie=UTF8&amp;q=paladin+dallas&amp;fb=1&amp;gl=us&amp;hq=paladin&amp;hnear=0x864c19f77b45974b:0xb9ec9ba4f647678f,Dallas,+TX&amp;cid=0,0,7521071718960099319&amp;t=m&amp;ll=32.911244,-96.876152&amp;spn=0.006295,0.006295&amp;source=embed" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+Speaker: Paul Grizzaffi
+
+h3. Talk Overview
+
+Sailing the treacherous waters of test automation is challenging at best. From executives thinking "it's going to fix all of our quality problems, right?" to team members saying "no, that's YOUR job", our automation initiatives face an uphill battle with a tendency to struggle…or at least to not achieve their full potential. Let's shed some light on several of these challenges and pitfalls while discussing some of the approaches we can use to avoid a voyage on the SS Failboat.
+
+h3. About the Speaker
+
+Paul Grizzaffi is the QA Automation Architect and Manager for Online Technology at GameStop. His career has focused on the creation and deployment of automated test frameworks, tools, and platforms. He holds a Master of Science in Computer Science and is a Certified Scrum Master (CSA) from Scrum Alliance. Paul has created automation platforms and tool frameworks based on proprietary, open source, and vendor supplied tool chains in diverse product environments (telecom, stock trading, and online/digital retail). He looks forward to expanding his automation and QA knowledge for other product environments.
+
+h3. Slides
+
+TBA - Will be posted on or near the event date.
