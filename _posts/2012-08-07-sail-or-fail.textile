@@ -16,7 +16,7 @@ Speaker: Paul Grizzaffi
 
 h3. Talk Overview
 
-Sailing the treacherous waters of test automation is challenging at best. From executives thinking "it's going to fix all of our quality problems, right?" to team members saying "no, that's YOUR job", our automation initiatives face an uphill battle with a tendency to struggle…or at least to not achieve their full potential. Let's shed some light on several of these challenges and pitfalls while discussing some of the approaches we can use to avoid a voyage on the SS Failboat.
+Sailing the treacherous waters of test automation is challenging at best. From executives thinking "it's going to fix all of our quality problems, right?" to team members saying "no, that's YOUR job," our automation initiatives face an uphill battle with a tendency to struggle... or at least to not achieve their full potential. Let's shed some light on several of these challenges and pitfalls while discussing some of the approaches we can use to avoid a voyage on the SS Failboat.
 
 h3. About the Speaker
 
